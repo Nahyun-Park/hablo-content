@@ -1,4 +1,12 @@
 {
   "schemaVersion": 1,
-  "packs": []
+  "packs": [
+    {
+      "packId": "core-seed",
+      "version": "2026.07.21-1",
+      "url": "https://hablo-content.pages.dev/packs/core-seed.2026.07.21-1.json",
+      "sha256": "b22fa94f7b6336423dcb441c8b1c5d40c4671a3d7552d62ffbbccdd0e30afe7c",
+      "bytes": 3086807
+    }
+  ]
 }
