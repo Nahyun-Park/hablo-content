@@ -1,0 +1,8 @@
+// Cloudflare Workers 정적 자산 배포 설정 — 빌드는 `npx wrangler deploy`가 수행한다.
+{
+  "name": "hablo-content",
+  "compatibility_date": "2026-07-01",
+  "assets": {
+    "directory": "."
+  }
+}
