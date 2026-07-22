@@ -1,8 +1,10 @@
-// Cloudflare Workers 정적 자산 배포 설정 — 빌드는 `npx wrangler deploy`가 수행한다.
+// Cloudflare Workers 배포 설정 — 정적 자산 + 어드민 API Worker.
 {
   "name": "hablo-content",
   "compatibility_date": "2026-07-01",
+  "main": "worker.mjs",
   "assets": {
-    "directory": "."
+    "directory": ".",
+    "binding": "ASSETS"
   }
 }
