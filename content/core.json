@@ -1,6 +1,6 @@
 {
   "packId": "core-seed",
-  "contentVersion": "2026.07.22-1",
+  "contentVersion": "2026.07.22-2",
   "source": {
     "name": "espanolVerb core seed (project-authored and rule-generated)",
     "license": "proprietary content; third-party frequency metadata documented separately"
