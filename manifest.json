@@ -3,9 +3,9 @@
   "packs": [
     {
       "packId": "core-seed",
-      "version": "2026.07.22-1",
-      "url": "https://hablo-content.nahyundev.workers.dev/packs/core-seed.2026.07.22-1.json",
-      "sha256": "9f24cec42e2cb17e74a232e12a721516db43fd42405ecd1875ef9c13242931f8",
+      "version": "2026.07.22-2",
+      "url": "https://hablo-content.nahyundev.workers.dev/packs/core-seed.2026.07.22-2.json",
+      "sha256": "b1567fd19ab1506478eb26cf390a63e3744cc095c9fa9c851c5e3a889f6c0330",
       "bytes": 3086807
     }
   ]
